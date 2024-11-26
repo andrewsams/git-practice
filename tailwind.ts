@@ -1,1 +1,1 @@
-This is an amazing tailwind config file..
+This is an amazing, well thoughtout, tailwind config file..
